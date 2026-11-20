@@ -2,7 +2,7 @@
 
 Optional photo and sound packs for the African Wildlife Survey Android app, made for the Etsha Bird Conservation Club.
 
-Download a pack from the Releases page, or add it inside the app under Records, Photo and sound packs. Do not unzip the files: the app opens the zip itself.
+Download a pack from the packs folder in this repo, or add it inside the app under Records, Photo and sound packs. Do not unzip the files: the app opens the zip itself.
 
 | File | Contents | Size |
 |---|---|---|
