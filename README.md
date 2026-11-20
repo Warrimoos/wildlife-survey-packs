@@ -1,6 +1,6 @@
 # African Wildlife Survey: packs
 
-Optional photo and sound packs for the African Wildlife Survey Android app, made for the Etsha Bird Conservation Club.
+Optional photo and sound packs for the African Wildlife Survey Android app, a field guide and survey tool for the wildlife of Botswana and the Okavango, southern Africa.
 
 Download a pack from the packs folder in this repo, or add it inside the app under Records, Photo and sound packs. Do not unzip the files: the app opens the zip itself.
 
