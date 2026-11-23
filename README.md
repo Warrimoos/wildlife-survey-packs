@@ -6,10 +6,10 @@ The app offers these on first launch (Get everything, or choose), and any time u
 
 | File | Contents | Size |
 |---|---|---|
-| packs/pack-photos-bird.zip | More bird photos | 32 MB |
-| packs/pack-photos-mammal.zip | More mammal photos | 10 MB |
-| packs/pack-photos-insect.zip | More insect photos | 10 MB |
-| packs/pack-photos-reptile.zip | More reptile photos | 3 MB |
+| packs/pack-photos-bird.zip | More bird photos (the app has one of each bird) | 32 MB |
+| packs/pack-photos-mammal.zip | All mammal photos | 14 MB |
+| packs/pack-photos-insect.zip | All insect photos | 16 MB |
+| packs/pack-photos-reptile.zip | All reptile photos | 4 MB |
 | packs/pack-calls.zip | Bird calls | 25 MB |
 
 ## Licences
